@@ -3,4 +3,4 @@ discord api token checker
 
 replace tokens with your tokens
 
-#bash pip install requests
+ pip install requests
